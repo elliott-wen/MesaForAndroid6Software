@@ -1,3 +1,1 @@
-URL: ftp://ftp.freedesktop.org/pub/mesa/older-versions/9.x/9.0.3/MesaLib-9.0.3.tar.gz
-Version: 9.0.3
-BugComponent: 33958
+We fix the broken mesa build in the Android 6 AOSP build.
